@@ -38,7 +38,7 @@ ul {
 .header, .footer {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 20pxg;
 }
 
 .content {
